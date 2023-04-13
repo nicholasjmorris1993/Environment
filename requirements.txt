@@ -4,3 +4,4 @@ pandas
 plotly
 xgboost
 TensorFlow
+seaborn
