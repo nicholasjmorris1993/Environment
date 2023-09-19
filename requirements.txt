@@ -7,4 +7,3 @@ TensorFlow
 seaborn
 pyomo
 glpk
-simpy
