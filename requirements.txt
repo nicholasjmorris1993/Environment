@@ -7,3 +7,4 @@ TensorFlow
 seaborn
 pyomo
 glpk
+py-cpuinfo
