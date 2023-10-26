@@ -8,3 +8,5 @@ seaborn
 pyomo
 glpk
 py-cpuinfo
+pandas-datareader
+nltk
