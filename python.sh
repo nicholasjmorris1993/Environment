@@ -1,5 +1,6 @@
 #! /bin/sh
-sudo apt-get install python3-venv
-python3 -m venv /home/nick/environment
-source /home/nick/environment/bin/activate
+sudo apt-get update
+sudo apt-get install python3.10-venv
+python3 -m venv /home/nick/env
+source /home/nick/env/bin/activate
 python3 -m pip install -r requirements.txt
