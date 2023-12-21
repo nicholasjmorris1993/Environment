@@ -1,0 +1,2 @@
+# follow instructions:
+https://www.guru99.com/download-install-sql-server.html
