@@ -1,2 +1,14 @@
 # follow instructions:
 https://www.guru99.com/download-install-sql-server.html
+
+# Connection String
+Server=localhost;Database=master;Trusted_Connection=True;
+
+# Instance Name
+MSSQLSERVER
+
+# SQL Administrators
+MSI\nicho
+
+# SSL Certificate
+CN=msi; CN=192.168.218.192
