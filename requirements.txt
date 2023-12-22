@@ -1,6 +1,5 @@
 river
 scikit-learn
-pandas
 plotly
 xgboost
 TensorFlow
