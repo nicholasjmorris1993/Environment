@@ -1,3 +1,3 @@
 # install JDK and Eclipse
 https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
-https://www.eclipse.org/downloads/
+https://eclipseide.org/
