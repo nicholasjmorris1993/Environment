@@ -1,0 +1,3 @@
+# install JDK and Eclipse
+https://openjdk.org/projects/jdk/
+https://www.eclipse.org/downloads/
