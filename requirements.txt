@@ -3,6 +3,7 @@ scikit-learn
 plotly
 xgboost
 TensorFlow
+transformers
 pyomo
 glpk
 py-cpuinfo
